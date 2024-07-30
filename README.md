@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/60f4d6b4-4270-42fd-a991-845af2e8c37b)# 📊 Wavecon Analysis Presentation
+# 📊 Wavecon Analysis Presentation
 This presentation is part of my internship task of AtliQ technologies.
 
 ## 📕 Table of Contents
