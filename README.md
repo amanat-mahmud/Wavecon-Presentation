@@ -36,7 +36,7 @@ Wavecon, a telecommunications company in India, has recently launched its 5G net
 - Only 2 of our plans increased in revenue. These both are long term data plans.
 - Wavecon has maintained 3rd  market position.
 - Number of unsubscribed user increased from 5.6M to 7M.
-- -Mumbai is top revenue generating city and also has most active user before and after launch of 5G.
+- Mumbai is top revenue generating city and also has most active user before and after launch of 5G.
 - Before 5G Lucknow had the highest average revenue per user but after 5G Patna top the spot and Lucknow is not at 4th spot. But if we don’t consider 5G then Mumbai is at the top then Patna and then Lucknow.
 - Mumbai had the most unsubscribed users before 5G but after 5G Delhi is at the top and Mumbai is on 3rd. But overall Mumbai has most unsubscribed users.
 
@@ -69,8 +69,4 @@ The detailed presentation slides for this project can be found [here](https://gi
 4. Enhanced communication skills.
 
 ## 💻 Installation and Usage
-- Microsoft Excel
-
-
-## 📈 Dashboard
-<img src="https://github.com/amanat-mahmud/sales_dashboard/blob/main/dashboard_ss.png">
+- Download the slide file and open it with any pdf reader.
