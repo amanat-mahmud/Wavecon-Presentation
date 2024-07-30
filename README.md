@@ -57,7 +57,7 @@ Wavecon, a telecommunications company in India, has recently launched its 5G net
 
 ## 📌 Project Presentation
 ### Video Presentation
-[![Wavecon Analysis Presentation](https://github.com/amanat-mahmud/Wavecon-Presentation/blob/main/cover.png)]()
+[![Wavecon Analysis Presentation](https://github.com/amanat-mahmud/Wavecon-Presentation/blob/main/cover.png)](https://youtu.be/zTYU1f5dc-A)
 
 ### Slides
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Wavecon-Presentation/blob/main/slide.pdf)
